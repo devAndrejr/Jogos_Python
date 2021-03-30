@@ -1,2 +1,2 @@
 # Jogos_Python
-Desenvolvendo jogo forca e adivinhação com recursos do Python
+Desenvolvendo jogo da forca e de adivinhação com recursos do Python
